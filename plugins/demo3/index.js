@@ -3,8 +3,8 @@ const { PupPlugin, segment, parseDmMessageId } = require('@pupbot/core')
 const plugin = new PupPlugin('demo3', '1.0.0')
 plugin.onMounted(() => {
     // var oss = {
-    //     accessKeyId: 'LTAI5tL5jxvXbBU2NLg75kS8',
-    //     accessKeySecret: '2ldxYEoLWQYoJd9YmyrrfZbdkR7zyT',
+    //     accessKeyId: 'xxxx',
+    //     accessKeySecret: 'xxx',
     //     bucketName: 'olrando',
     //     region: 'oss-cn-chengdu'
     // };
