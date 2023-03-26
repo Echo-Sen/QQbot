@@ -1,0 +1,58 @@
+[2023-03-16 19:42:34:814] [MARK] [2764436432-aWatch] ----------
+[2023-03-16 19:42:34:814] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-16 19:42:34:814] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-16 19:42:34:815] [MARK] [2764436432-aWatch] ----------
+[2023-03-16 19:42:34:919] [MARK] [2764436432-aWatch] 120.232.196.151:8080 connected
+[2023-03-16 19:42:35:079] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-16 19:43:23:384] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-16 19:43:23:678] [MARK] [2764436432-aWatch] 加载了209个好友，14个群，14个陌生人
+[2023-03-16 19:43:23:680] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-16 19:43:23:700] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-16 19:43:23:705] [INFO] [2764436432-aWatch] 插件 [32mhelper[0m 启用成功
+[2023-03-16 19:43:23:712] [INFO] [2764436432-aWatch] 插件 [32mkeyword[0m 启用成功
+[2023-03-16 19:43:23:718] [INFO] [2764436432-aWatch] 插件 [32mlike[0m 启用成功
+[2023-03-16 19:43:23:726] [INFO] [2764436432-aWatch] 插件 [32mmryt[0m 启用成功
+[2023-03-16 19:43:24:625] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-16 19:43:24:631] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-16 19:43:24:634] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-16 19:43:24:635] [INFO] [2764436432-aWatch] [36m共检索到 10 个插件 (3 个本地，7 个 npm), 启用 8 个：[32mbili, helper, keyword, like, mryt, weather, demo, demo3[0m[0m
+[2023-03-16 19:43:24:681] [ERROR] [2764436432-aWatch] failed to send: [Private: 1706328818] 发送失败，请先添加对方为好友(16)
+[2023-03-16 19:43:24:683] [ERROR] [2764436432-aWatch] 发送失败，请先添加对方为好友
+[2023-03-16 19:43:25:397] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 8 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-16 19:44:14:596] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p add chatgpt3
+[2023-03-16 19:44:14:796] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在安装 chatgpt3 〓
+[2023-03-16 19:44:19:864] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 chatgpt3 安装成功 〓
+[2023-03-16 19:44:31:097] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on chatgpt3
+[2023-03-16 19:44:31:163] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 启用成功
+[2023-03-16 19:44:31:359] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] ChatGPT: 请先配置 apiKey，格式：/chatgpt setkey <apikey>
+[2023-03-16 19:44:31:436] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 chatgpt3 启用成功 〓
+[2023-03-16 19:45:23:095] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /chatgpt setkey <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>
+[2023-03-16 19:47:41:007] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p off chatgpt3
+[2023-03-16 19:47:41:014] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 禁用成功
+[2023-03-16 19:47:41:169] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 chatgpt3 禁用成功 〓
+[2023-03-16 19:47:45:463] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on chatgpt3
+[2023-03-16 19:47:45:474] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 启用成功
+[2023-03-16 19:47:45:621] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 chatgpt3 启用成功 〓
+[2023-03-16 19:47:45:699] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] ChatGPT: 请先配置 apiKey，格式：/chatgpt setkey <apikey>
+[2023-03-16 19:47:55:633] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /chatgpt setkey <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>
+[2023-03-16 19:48:05:236] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on chatgpt3
+[2023-03-16 19:48:05:437] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 chatgpt3: 插件已启用 〓
+[2023-03-16 19:49:21:610] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p off chatgpt3
+[2023-03-16 19:49:21:616] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 禁用成功
+[2023-03-16 19:49:21:806] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 chatgpt3 禁用成功 〓
+[2023-03-16 19:49:26:060] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on chatgpt3
+[2023-03-16 19:49:26:070] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 启用成功
+[2023-03-16 19:49:26:246] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 chatgpt3 启用成功 〓
+[2023-03-16 19:50:51:504] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload chatgpt3
+[2023-03-16 19:50:51:511] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 禁用成功
+[2023-03-16 19:50:51:525] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 启用成功
+[2023-03-16 19:50:51:714] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 chatgpt3 重载成功 〓
+[2023-03-16 19:51:13:120] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] ％你好
+[2023-03-16 19:51:38:692] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] ％讲个故事吧
+[2023-03-16 19:52:16:067] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 李逍遥 
+[2023-03-16 19:52:31:203] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] ％讲个故事
+[2023-03-16 19:59:55:356] [INFO] [2764436432-aWatch] recv from: [Private: 3113222742(friend)] {image:1031C274E0306ED0EBD6C0314F599366}
+[2023-03-16 20:00:02:741] [INFO] [2764436432-aWatch] recv from: [Private: 3113222742(friend)] 你是懂人工的
+[2023-03-16 20:08:52:703] [WARN] [2764436432-aWatch] [下线通知]你的帐号当前登录已失效，请重新登录。
+[2023-03-16 20:08:52:704] [MARK] [2764436432-aWatch] 120.232.196.151:8080 closed

@@ -1,0 +1,157 @@
+[2023-03-26 14:30:47:857] [MARK] [2764436432-aWatch] ----------
+[2023-03-26 14:30:47:857] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-26 14:30:47:857] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-26 14:30:47:857] [MARK] [2764436432-aWatch] ----------
+[2023-03-26 14:30:47:938] [MARK] [2764436432-aWatch] 123.151.54.57:8080 connected
+[2023-03-26 14:30:48:102] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-26 14:31:08:606] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-26 14:31:09:072] [MARK] [2764436432-aWatch] 加载了211个好友，14个群，14个陌生人
+[2023-03-26 14:31:09:074] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-26 14:31:09:093] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-26 14:31:09:787] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-26 14:31:09:793] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3.5[0m 启用成功
+[2023-03-26 14:31:09:796] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-26 14:31:09:803] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:31:09:816] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 启用成功
+[2023-03-26 14:31:09:816] [INFO] [2764436432-aWatch] [36m共检索到 7 个插件 (4 个本地，3 个 npm), 启用 6 个：[32mbili, weather, chatgpt3.5, demo3, ele, SLmusic[0m[0m
+[2023-03-26 14:31:10:792] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 6 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-26 14:32:25:842] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:32:25:854] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:32:25:857] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:32:26:227] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 14:32:31:586] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:32:31:668] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:01:599] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:01:681] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:01:764] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:01:765] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:31:572] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:31:654] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:31:655] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:31:655] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:31:738] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:31:738] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:33:35:784] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:33:35:790] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:33:35:795] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:33:36:161] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 14:34:01:503] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:34:01:582] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:34:31:506] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:34:31:585] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:34:31:665] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:34:31:665] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:35:01:542] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:35:01:646] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:35:01:733] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:35:01:816] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:35:01:816] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:35:01:816] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:35:29:186] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:35:29:193] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:35:29:197] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:35:29:550] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 14:35:30:872] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:35:31:004] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:00:878] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:00:960] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:00:960] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:01:040] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:30:922] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:31:004] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:31:004] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:31:004] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:31:004] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:36:31:081] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:00:984] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:01:063] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:01:063] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:01:063] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:01:063] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:01:063] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:01:064] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:01:064] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:879] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:960] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:960] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:960] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:961] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:961] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:961] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:961] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:961] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:30:962] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:37:47:035] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p off ele
+[2023-03-26 14:37:47:042] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:37:47:396] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 禁用成功 〓
+[2023-03-26 14:40:01:823] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on ele
+[2023-03-26 14:40:01:831] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:40:02:192] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 启用成功 〓
+[2023-03-26 14:40:57:903] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:40:57:909] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:40:57:912] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:40:58:328] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 14:41:44:211] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:41:44:217] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:41:44:220] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:41:44:594] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 14:42:36:875] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-26 14:42:37:341] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] /ele list (当前账号绑定信息)
+/ele bind 南区1舍-106(绑定房间信息)
+/ele find (查询电费信息)
+[2023-03-26 14:43:07:864] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:43:07:870] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:43:07:875] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:43:08:250] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 14:43:31:591] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:43:31:669] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:44:01:639] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:44:01:727] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:44:01:727] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:44:01:811] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:44:05:814] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:44:05:820] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:44:05:823] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:44:06:162] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 14:44:31:530] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:44:31:634] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:45:01:557] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:45:01:639] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:45:31:557] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:45:31:654] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:46:01:622] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:46:01:702] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:46:13:548] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:46:13:554] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:46:13:556] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:46:13:907] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 14:46:31:251] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:46:31:331] [INFO] [2764436432-aWatch] succeed to send: [Private(2308920860)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:47:01:224] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:47:01:303] [INFO] [2764436432-aWatch] succeed to send: [Private(2308920860)] 您当前宿舍电费剩余低于十元！请尽快充值！
+[2023-03-26 14:47:22:393] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:47:22:398] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 14:47:22:820] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载失败 〓
+onMounted 发生错误: 
+{
+  "name": "PupPluginError",
+  "pluginName": "ele",
+  "message": "无效的 cron 表达式"
+}
+[2023-03-26 14:47:32:153] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:47:32:503] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载失败 〓
+onMounted 发生错误: 
+{
+  "name": "PupPluginError",
+  "pluginName": "ele",
+  "message": "无效的 cron 表达式"
+}
+[2023-03-26 14:47:38:108] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 14:47:38:485] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载失败 〓
+onMounted 发生错误: 
+{
+  "name": "PupPluginError",
+  "pluginName": "ele",
+  "message": "无效的 cron 表达式"
+}

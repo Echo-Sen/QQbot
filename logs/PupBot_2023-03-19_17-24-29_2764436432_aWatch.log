@@ -1,0 +1,364 @@
+[2023-03-19 17:24:29:959] [MARK] [2764436432-aWatch] ----------
+[2023-03-19 17:24:29:959] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-19 17:24:29:959] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-19 17:24:29:959] [MARK] [2764436432-aWatch] ----------
+[2023-03-19 17:24:30:050] [MARK] [2764436432-aWatch] 42.81.176.211:8080 connected
+[2023-03-19 17:24:30:222] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-19 17:24:47:649] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-19 17:24:48:147] [MARK] [2764436432-aWatch] 加载了210个好友，14个群，14个陌生人
+[2023-03-19 17:24:48:147] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-19 17:24:48:175] [INFO] [2764436432-aWatch] 插件 [32mbaike[0m 启用成功
+[2023-03-19 17:24:48:180] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-19 17:24:48:185] [INFO] [2764436432-aWatch] 插件 [32mhelper[0m 启用成功
+[2023-03-19 17:24:48:191] [INFO] [2764436432-aWatch] 插件 [32mkeyword[0m 启用成功
+[2023-03-19 17:24:48:196] [INFO] [2764436432-aWatch] 插件 [32mlike[0m 启用成功
+[2023-03-19 17:24:48:206] [INFO] [2764436432-aWatch] 插件 [32mmryt[0m 启用成功
+[2023-03-19 17:24:48:214] [INFO] [2764436432-aWatch] 插件 [32mmusic[0m 启用成功
+[2023-03-19 17:24:48:945] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-19 17:24:48:951] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3.5[0m 启用成功
+[2023-03-19 17:24:48:954] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-19 17:24:48:958] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:24:48:958] [INFO] [2764436432-aWatch] [36m共检索到 13 个插件 (4 个本地，9 个 npm), 启用 11 个：[32mbaike, bili, helper, keyword, like, mryt, music, weather, chatgpt3.5, demo3, ele[0m[0m
+[2023-03-19 17:24:49:887] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 11 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-19 17:24:59:492] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:24:59:563] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:25:57:136] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:25:57:145] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:25:57:147] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:25:57:510] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:26:00:902] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:26:00:962] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:31:26:514] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:31:26:521] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:31:26:523] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:31:26:879] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:31:28:130] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:32:12:439] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:32:12:446] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:32:12:448] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:32:12:843] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:32:15:666] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:32:15:710] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:32:46:904] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:32:46:912] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:32:46:915] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:32:47:278] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:32:50:416] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:32:50:453] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:34:42:008] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:34:42:016] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:34:42:018] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:34:42:433] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:34:45:402] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:34:45:439] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:35:40:604] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:35:40:609] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:35:40:612] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:35:40:979] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:35:43:011] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:35:43:052] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:36:22:944] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:36:22:951] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:36:22:953] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:36:23:346] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:36:24:764] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:36:24:799] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:37:09:617] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:37:09:626] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:37:09:628] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:37:10:004] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:37:12:254] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:37:12:296] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:39:43:543] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:39:43:549] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:39:43:552] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:39:43:891] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:39:46:789] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:40:47:167] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:40:47:173] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:40:47:175] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:40:47:540] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:40:49:104] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:42:46:368] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:42:46:373] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:42:46:376] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:42:46:783] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:42:48:858] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:43:24:323] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:43:24:327] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:43:24:329] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:43:24:696] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:43:26:248] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:43:26:253] [ERROR] [2764436432-aWatch] hhhh is not defined
+[2023-03-19 17:43:39:859] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:43:39:864] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:43:39:867] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:43:40:202] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:43:41:592] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:44:44:869] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:44:44:875] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:44:44:877] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:44:45:328] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:44:49:053] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:46:05:827] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:46:05:832] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:46:05:834] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:46:06:180] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:46:08:180] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:46:08:186] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading 'uroom')
+[2023-03-19 17:46:37:752] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:46:37:758] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:46:37:761] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:46:38:125] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:46:39:869] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:46:39:910] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:47:30:302] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费-南区1舍-106
+[2023-03-19 17:47:30:346] [ERROR] [2764436432-aWatch] config.push(...).indexOf is not a function
+[2023-03-19 17:47:45:877] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:47:45:881] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:47:45:883] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:47:46:242] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:47:49:535] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费-南区1舍-106
+[2023-03-19 17:47:49:888] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 宿舍号：106
+剩余电费：16.04
+更新时间：2023/3/19 15:42:53
+当月用电：24.84
+[2023-03-19 17:47:54:488] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:47:54:493] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading 'uroom')
+[2023-03-19 17:51:45:361] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:51:45:365] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:51:45:367] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:51:45:744] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:51:48:104] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:51:48:148] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:52:35:041] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:52:35:048] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:52:35:050] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:52:35:425] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:52:38:239] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:52:38:275] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:53:31:955] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:53:31:961] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:53:31:963] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:53:32:349] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:53:34:742] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:53:34:781] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:53:50:581] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:53:50:586] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:53:50:587] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:53:50:954] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:53:52:543] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:53:52:548] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading 'uroom')
+[2023-03-19 17:54:47:296] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:54:47:300] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:54:47:303] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:54:47:671] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:54:50:269] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:54:50:274] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading 'uroom')
+[2023-03-19 17:55:22:618] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:55:22:621] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:55:22:623] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:55:23:015] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:55:28:423] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:55:28:495] [ERROR] [2764436432-aWatch] Cannot set properties of undefined (setting 'surplus')
+[2023-03-19 17:56:01:258] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:56:01:262] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:56:01:265] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:56:01:693] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:56:04:027] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:56:04:416] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 宿舍号：106
+剩余电费：16.04
+更新时间：2023/3/19 15:42:53
+当月用电：24.84
+[2023-03-19 17:57:02:094] [INFO] [2764436432-aWatch] 2308920860(SuperNova) 将你添加为单向好友 (seq: 1679219821000000, flag: ~899f561c5f73dd4ee3540)
+[2023-03-19 17:57:09:391] [INFO] [2764436432-aWatch] 更新了好友列表，新增了好友 2308920860(SuperNova)
+[2023-03-19 17:57:10:363] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [图片]
+〓 新增好友 〓
+昵称: SuperNova
+QQ: 2308920860
+[2023-03-19 17:57:13:952] [INFO] [2764436432-aWatch] recv from: [Private: 2308920860(friend)] /p
+[2023-03-19 17:57:50:213] [INFO] [2764436432-aWatch] recv from: [Private: 2308920860(friend)] 查电费-南区1舍-107
+[2023-03-19 17:57:50:627] [INFO] [2764436432-aWatch] succeed to send: [Private(2308920860)] 宿舍号：107
+剩余电费：14.29
+更新时间：2023/3/19 15:42:53
+当月用电：3.24
+[2023-03-19 17:57:57:755] [INFO] [2764436432-aWatch] recv from: [Private: 2308920860(friend)] 查电费
+[2023-03-19 17:57:58:139] [INFO] [2764436432-aWatch] succeed to send: [Private(2308920860)] 宿舍号：107
+剩余电费：14.29
+更新时间：2023/3/19 15:42:53
+当月用电：3.24
+[2023-03-19 18:24:31:536] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 18:24:31:543] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 18:24:31:544] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 18:24:31:931] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 18:24:42:678] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele addkey
+[2023-03-19 18:25:00:381] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-19 18:28:29:236] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 18:28:29:242] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 18:28:29:245] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 18:28:29:609] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 18:28:32:364] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele addkey
+[2023-03-19 18:29:14:705] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-19 18:31:47:202] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 18:31:47:209] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 18:31:47:211] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 18:31:47:557] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 18:31:52:888] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele addkey
+[2023-03-19 18:32:37:644] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 18:32:37:651] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 18:32:37:653] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 18:32:38:021] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 18:32:44:952] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindmsg
+[2023-03-19 18:34:24:087] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 18:34:24:091] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 18:34:24:093] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 18:34:24:441] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 18:34:28:542] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindmsg
+[2023-03-19 18:36:14:907] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 18:36:14:913] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 18:36:14:916] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 18:36:15:259] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 18:36:20:719] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindmsg
+[2023-03-19 18:36:38:030] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 18:36:38:035] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 18:36:38:038] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 18:36:38:413] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 18:36:41:304] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindmsg
+[2023-03-19 18:48:17:657] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-19 19:26:07:116] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:26:07:121] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:26:07:123] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:26:07:509] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:26:11:340] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-19 19:26:29:256] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-19 19:26:31:381] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 123
+[2023-03-19 19:26:40:251] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele add
+[2023-03-19 19:27:03:426] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindmsg
+[2023-03-19 19:28:16:047] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:28:16:054] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:28:16:056] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:28:16:401] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:29:10:682] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg
+[2023-03-19 19:29:11:087] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] jhjh
+[2023-03-19 19:30:20:690] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:30:20:695] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:30:20:697] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:30:21:074] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:30:26:005] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg
+[2023-03-19 19:33:35:380] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:33:35:385] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:33:35:387] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:33:35:724] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:33:39:870] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg
+[2023-03-19 19:37:56:276] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:37:56:280] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:37:56:282] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:37:56:648] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:38:00:032] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg
+[2023-03-19 19:47:48:326] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:47:48:330] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:47:48:332] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:47:48:709] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:47:54:381] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find
+[2023-03-19 19:48:22:419] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg
+[2023-03-19 19:50:50:928] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍 106
+[2023-03-19 19:51:36:779] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:51:36:783] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:51:36:785] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:51:37:174] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:51:39:650] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍 106
+[2023-03-19 19:51:46:463] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍 106
+[2023-03-19 19:51:56:089] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:51:56:094] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:51:56:096] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:51:56:453] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:51:59:833] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍 106
+[2023-03-19 19:52:14:396] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find 南区1舍 106
+[2023-03-19 19:53:23:529] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find 南区1舍-106
+[2023-03-19 19:53:52:305] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:53:52:310] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:53:52:313] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:53:52:673] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:54:07:124] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍-106
+[2023-03-19 19:54:44:221] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:54:44:226] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:54:44:228] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:54:44:646] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:54:46:892] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:54:46:896] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:54:46:898] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:54:47:276] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:54:55:432] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍-106
+[2023-03-19 19:55:45:924] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:55:45:929] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:55:45:931] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:55:46:291] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:55:53:191] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍-106
+[2023-03-19 19:57:15:982] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:57:15:986] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:57:15:989] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:57:16:336] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:57:19:757] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍-106
+[2023-03-19 19:57:44:433] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:57:44:438] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:57:44:440] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:57:44:827] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:57:47:821] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍-106
+[2023-03-19 19:57:53:679] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find 南区1舍-106
+[2023-03-19 19:58:07:383] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 19:58:07:388] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 19:58:07:390] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 19:58:07:753] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 19:58:12:035] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bindimsg 南区1舍-106
+[2023-03-19 19:58:23:468] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bind 南区1舍-106
+[2023-03-19 20:04:00:820] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 20:04:00:824] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 20:04:00:826] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 20:04:01:214] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 20:04:05:769] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bind 南区1舍-106
+[2023-03-19 20:05:05:772] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 20:05:05:776] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 20:05:05:778] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 20:05:06:156] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 20:05:21:870] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bind 南区1舍-106
+[2023-03-19 20:22:17:486] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 20:22:17:490] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 20:22:17:493] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 20:22:17:849] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 20:22:25:674] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find
+[2023-03-19 20:22:26:169] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 请绑定房间号！！！
+例：/ele bind 南区1舍-106
+[2023-03-19 20:22:46:344] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bind 南区1舍-106
+[2023-03-19 20:22:46:753] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 绑定成功
+[2023-03-19 20:22:54:007] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find
+[2023-03-19 20:22:54:401] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 请绑定房间号！！！
+例：/ele bind 南区1舍-106
+[2023-03-19 20:23:31:426] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 20:23:31:432] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 20:23:31:434] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 20:23:31:790] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 20:23:37:238] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find
+[2023-03-19 20:23:37:633] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 请绑定房间号！！！
+例：/ele bind 南区1舍-106
+[2023-03-19 20:23:51:745] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bind 南区1舍-106
+[2023-03-19 20:23:52:128] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]绑定成功
+[2023-03-19 20:24:04:032] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find
+[2023-03-19 20:24:04:426] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 请绑定房间号！！！
+例：/ele bind 南区1舍-106
+[2023-03-19 20:25:26:220] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 20:25:26:224] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 20:25:26:226] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 20:25:26:634] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 20:25:34:387] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find
+[2023-03-19 20:25:34:829] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 请绑定房间号！！！
+例：/ele bind 南区1舍-106
+[2023-03-19 20:25:40:050] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele bind 南区1舍-106
+[2023-03-19 20:25:40:424] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]绑定成功
+[2023-03-19 20:26:17:873] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find
+[2023-03-19 20:26:18:210] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 请绑定房间号！！！
+例：/ele bind 南区1舍-106
+[2023-03-19 20:27:06:007] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-19 20:27:14:874] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find
+[2023-03-19 20:27:15:237] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 请绑定房间号！！！
+例：/ele bind 南区1舍-106

@@ -1,0 +1,11 @@
+[2023-03-26 14:18:07:510] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 14:18:07:594] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 14:18:07:594] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 14:18:07:595] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 14:18:07:595] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 14:18:09:727] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 14:18:09:727] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 14:18:09:819] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 14:18:09:819] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 14:18:09:819] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 14:18:09:819] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'

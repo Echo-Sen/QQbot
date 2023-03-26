@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "",
+    "uroom": "",
+    "ubuild": "",
+    "surplus": "",
+    "update_time": "",
+    "current_usage": ""
+  },
+  {
+    "uid": 204797682,
+    "uroom": "106",
+    "ubuild": "南区1舍",
+    "surplus": "3.08",
+    "update_time": "2023/3/26 11:38:39",
+    "current_usage": "37.80"
+  },
+  {
+    "uid": 1933067789,
+    "uroom": "108",
+    "ubuild": "南区1舍",
+    "surplus": "92.84",
+    "update_time": "2023/3/20 8:47:34",
+    "current_usage": "29.16"
+  },
+  {
+    "uid": 3113222742,
+    "uroom": "205",
+    "ubuild": "南区2舍",
+    "surplus": "39.40",
+    "update_time": "2023/3/20 8:47:34",
+    "current_usage": "15.12"
+  },
+  {
+    "uid": 2308920860,
+    "uroom": "107",
+    "ubuild": "南区1舍",
+    "surplus": "13.21",
+    "update_time": "2023/3/20 8:47:34",
+    "current_usage": "4.32"
+  },
+  {
+    "uid": 383568053,
+    "uroom": "1014",
+    "ubuild": "北区16舍",
+    "surplus": "23.20",
+    "update_time": "2023/3/24 10:17:43",
+    "current_usage": "48.60"
+  }
+]

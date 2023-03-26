@@ -1,0 +1,61 @@
+{
+  "account": 2764436432,
+  "login_mode": "qrcode",
+  "device_mode": "sms",
+  "message_mode": "short",
+  "password": "",
+  "log_level": "info",
+  "admins": [
+    204797682
+  ],
+  "plugins": [
+    "bili",
+    "weather",
+    "chatgpt3.5",
+    "demo3",
+    "ele",
+    "SLmusic"
+  ],
+  "notice": {
+    "enable": true,
+    "friend": {
+      "request": {
+        "enable": true,
+        "action": "ignore"
+      },
+      "increase": true,
+      "decrease": true,
+      "message": false
+    },
+    "group": {
+      "request": {
+        "enable": false,
+        "action": "ignore"
+      },
+      "increase": true,
+      "decrease": true,
+      "ban": true,
+      "admin": true,
+      "transfer": true
+    },
+    "private": {
+      "for_all_peo": true
+    },
+    "keyword": [
+      {
+        "keyword": [
+          "关键词"
+        ],
+        "answer": "answer",
+        "fuzzy_matcing": false
+      }
+    ]
+  },
+  "oicq_config": {
+    "platform": 3,
+    "data_dir": "D:\\A.前端学习\\science\\data\\oicq",
+    "log_level": "info",
+    "ffmpeg_path": "ffmpeg",
+    "ffprobe_path": "ffprobe"
+  }
+}

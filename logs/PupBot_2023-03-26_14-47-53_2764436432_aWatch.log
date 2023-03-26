@@ -1,0 +1,61 @@
+[2023-03-26 14:47:53:323] [MARK] [2764436432-aWatch] ----------
+[2023-03-26 14:47:53:323] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-26 14:47:53:323] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-26 14:47:53:323] [MARK] [2764436432-aWatch] ----------
+[2023-03-26 14:47:53:425] [MARK] [2764436432-aWatch] 221.238.41.89:8080 connected
+[2023-03-26 14:47:53:611] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-26 14:48:23:054] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-26 14:48:23:547] [MARK] [2764436432-aWatch] 加载了211个好友，14个群，14个陌生人
+[2023-03-26 14:48:23:549] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-26 14:48:23:569] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-26 14:48:24:278] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-26 14:48:24:284] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3.5[0m 启用成功
+[2023-03-26 14:48:24:288] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-26 14:48:24:295] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 14:48:24:309] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 启用成功
+[2023-03-26 14:48:24:309] [INFO] [2764436432-aWatch] [36m共检索到 7 个插件 (4 个本地，3 个 npm), 启用 6 个：[32mbili, weather, chatgpt3.5, demo3, ele, SLmusic[0m[0m
+[2023-03-26 14:48:25:296] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 6 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-26 15:05:42:597] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 15:05:42:611] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 15:05:42:613] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 15:05:42:970] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 15:05:55:699] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 南123
+[2023-03-26 15:05:55:707] [ERROR] [2764436432-aWatch] roomName is not defined
+[2023-03-26 15:06:21:335] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 15:06:21:344] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 15:06:21:348] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 15:06:21:730] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 15:06:30:959] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 南123
+[2023-03-26 15:10:50:779] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 15:10:50:787] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 15:10:50:789] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 15:10:51:153] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 15:10:58:838] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 南123
+[2023-03-26 15:10:58:842] [ERROR] [2764436432-aWatch] First argument to String.prototype.includes must not be a regular expression
+[2023-03-26 15:12:14:629] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 15:12:14:638] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 15:12:14:640] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 15:12:15:137] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 15:12:40:592] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 南123
+[2023-03-26 15:13:13:090] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 15:13:13:097] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 15:13:13:101] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 15:13:13:502] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 15:13:25:648] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 南123
+[2023-03-26 15:13:43:896] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele 南区106
+[2023-03-26 15:13:57:332] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 南区106
+[2023-03-26 15:14:11:117] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 106南区
+[2023-03-26 15:14:23:593] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 15:14:23:598] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 15:14:23:602] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 15:14:24:104] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 15:14:38:296] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 106南区
+[2023-03-26 15:17:07:733] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 15:17:07:741] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 15:17:07:744] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 15:17:08:132] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-26 15:17:18:394] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] ele a 南区106
+[2023-03-26 15:17:34:563] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 南区106
+[2023-03-26 15:17:48:005] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 南区106
+[2023-03-26 15:18:07:598] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele a 南一106

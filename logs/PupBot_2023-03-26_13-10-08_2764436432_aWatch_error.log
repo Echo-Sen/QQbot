@@ -1,0 +1,21 @@
+[2023-03-26 13:10:33:634] [ERROR] [2764436432-aWatch] userList is not defined
+[2023-03-26 13:11:47:781] [ERROR] [2764436432-aWatch] userList is not defined
+[2023-03-26 13:27:55:679] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-26 13:29:39:602] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-26 13:31:20:543] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-26 13:31:54:307] [ERROR] [2764436432-aWatch] Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+[2023-03-26 13:40:13:874] [ERROR] [2764436432-aWatch] 插件 [32mele[0m 导入过程中发生错误: 
+Unexpected token ')'
+[2023-03-26 13:41:23:124] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-26 13:43:44:719] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-26 13:44:00:055] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '0')
+[2023-03-26 13:46:31:331] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-26 13:48:51:563] [ERROR] [2764436432-aWatch] get.data[0] is not iterable (cannot read property undefined)
+[2023-03-26 13:51:43:365] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-26 13:56:12:645] [ERROR] [2764436432-aWatch] failed to send: [Group: 204797682] 发送失败，你已被移出该群，请重新加群。(110)
+[2023-03-26 13:56:12:646] [ERROR] [2764436432-aWatch] 发送失败，你已被移出该群，请重新加群。
+[2023-03-26 13:56:12:738] [ERROR] [2764436432-aWatch] failed to send: [Group: 2308920860] 发送失败，你已被移出该群，请重新加群。(110)
+[2023-03-26 13:56:12:738] [ERROR] [2764436432-aWatch] 发送失败，你已被移出该群，请重新加群。

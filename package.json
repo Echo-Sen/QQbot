@@ -1,0 +1,21 @@
+{
+  "name": "pupbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PupBot机器人",
+  "homepage": "https://pupbot.cn/",
+  "author": "dogxi",
+  "dependencies": {
+    "@pupbot/core": "^1.0.28",
+    "axios": "^1.3.4",
+    "pupbot-plugin-baike": "^1.1.2",
+    "pupbot-plugin-bili": "^1.0.0",
+    "pupbot-plugin-chatgpt3": "^1.1.4",
+    "pupbot-plugin-helper": "^1.0.10",
+    "pupbot-plugin-keyword": "^1.1.0",
+    "pupbot-plugin-like": "^1.0.1",
+    "pupbot-plugin-mryt": "^1.1.0",
+    "pupbot-plugin-music": "^1.0.1",
+    "pupbot-plugin-weather": "^1.1.3"
+  }
+}

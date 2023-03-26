@@ -1,0 +1,187 @@
+[2023-03-23 22:02:14:671] [MARK] [2764436432-aWatch] ----------
+[2023-03-23 22:02:14:672] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-23 22:02:14:672] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-23 22:02:14:672] [MARK] [2764436432-aWatch] ----------
+[2023-03-23 22:02:14:764] [MARK] [2764436432-aWatch] 42.81.184.206:8080 connected
+[2023-03-23 22:02:14:930] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-23 22:02:46:370] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-23 22:02:46:977] [MARK] [2764436432-aWatch] 加载了211个好友，14个群，14个陌生人
+[2023-03-23 22:02:46:978] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-23 22:02:47:016] [INFO] [2764436432-aWatch] 插件 [32mbaike[0m 启用成功
+[2023-03-23 22:02:47:022] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-23 22:02:47:028] [INFO] [2764436432-aWatch] 插件 [32mhelper[0m 启用成功
+[2023-03-23 22:02:47:033] [INFO] [2764436432-aWatch] 插件 [32mkeyword[0m 启用成功
+[2023-03-23 22:02:47:046] [INFO] [2764436432-aWatch] 插件 [32mlike[0m 启用成功
+[2023-03-23 22:02:47:066] [INFO] [2764436432-aWatch] 插件 [32mmryt[0m 启用成功
+[2023-03-23 22:02:47:075] [INFO] [2764436432-aWatch] 插件 [32mmusic[0m 启用成功
+[2023-03-23 22:02:48:419] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-23 22:02:48:427] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3.5[0m 启用成功
+[2023-03-23 22:02:48:431] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-23 22:02:48:436] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:02:48:437] [INFO] [2764436432-aWatch] [36m共检索到 13 个插件 (4 个本地，9 个 npm), 启用 11 个：[32mbaike, bili, helper, keyword, like, mryt, music, weather, chatgpt3.5, demo3, ele[0m[0m
+[2023-03-23 22:02:49:454] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 11 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-23 22:03:33:039] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-23 22:03:33:435] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] /ele list (当前账号绑定信息)
+/ele bind 南区1舍-106(绑定房间信息)
+/ele find (查询电费信息)
+[2023-03-23 22:03:54:000] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele list
+[2023-03-23 22:03:54:376] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] QQ账号：204797682
+宿舍号：108
+楼栋号：南区1舍
+剩余电费：92.84
+更新时间：2023/3/20 8:47:34
+当月用电：29.16
+[2023-03-23 22:03:54:470] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] /ele list (当前账号绑定信息)
+/ele bind 南区1舍-106(绑定房间信息)
+/ele find (查询电费信息)
+[2023-03-23 22:05:03:306] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:05:03:314] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:05:03:317] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:05:03:692] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-23 22:05:08:132] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele list
+[2023-03-23 22:05:08:604] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] QQ账号：204797682
+宿舍号：108
+楼栋号：南区1舍
+剩余电费：92.84
+更新时间：2023/3/20 8:47:34
+当月用电：29.16
+[2023-03-23 22:05:12:878] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-23 22:06:15:716] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:06:15:723] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:06:15:725] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:06:16:103] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-23 22:06:21:609] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-23 22:06:40:634] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:06:40:640] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:06:40:644] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:06:41:023] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-23 22:06:45:484] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele
+[2023-03-23 22:06:45:866] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] /ele list (当前账号绑定信息)
+/ele bind 南区1舍-106(绑定房间信息)
+/ele find (查询电费信息)
+[2023-03-23 22:06:53:356] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele list
+[2023-03-23 22:06:53:747] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] QQ账号：204797682
+宿舍号：108
+楼栋号：南区1舍
+剩余电费：92.84
+更新时间：2023/3/20 8:47:34
+当月用电：29.16
+[2023-03-23 22:21:23:838] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:21:23:846] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:21:23:848] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:21:24:237] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-23 22:22:27:741] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:22:27:749] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:22:27:754] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:22:28:127] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-23 22:22:31:080] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:22:34:100] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:22:37:070] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:22:40:080] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:22:43:121] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:22:46:113] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:22:49:186] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:22:52:150] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:22:52:231] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /ele find
+[2023-03-23 22:22:52:662] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 宿舍号：108
+剩余电费：86.90
+更新时间：2023/3/23 9:51:39
+当月用电：35.10
+[2023-03-23 22:22:55:141] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:22:58:101] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:01:177] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:04:160] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:07:128] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:10:135] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:13:145] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:16:117] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:19:147] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:22:133] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:25:222] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:28:201] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:31:119] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:34:153] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:37:154] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:40:162] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:43:136] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:46:156] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:46:431] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p ofd ele
+[2023-03-23 22:23:49:144] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:52:135] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:23:54:528] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p off ele
+[2023-03-23 22:23:54:533] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:23:54:952] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 禁用成功 〓
+[2023-03-23 22:26:49:627] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on ele
+[2023-03-23 22:26:49:635] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:26:50:031] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 启用成功 〓
+[2023-03-23 22:27:00:968] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:28:01:023] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:29:01:016] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:29:32:340] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:29:32:347] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:29:32:351] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:29:32:712] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-23 22:30:00:730] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:31:00:767] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:32:00:807] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:33:00:792] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:34:00:879] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:35:00:923] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:00:979] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:11:277] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:36:11:283] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:36:11:287] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:36:11:631] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-23 22:36:12:616] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:14:653] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:16:614] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:18:671] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:20:629] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:22:654] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:24:680] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:26:629] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:28:623] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:30:645] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:32:114] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:36:32:121] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:36:32:125] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-23 22:36:32:491] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-23 22:36:33:453] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:34:506] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:35:453] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:36:474] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:37:448] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:38:461] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:39:495] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:40:520] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:41:459] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:42:521] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:43:463] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:44:467] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:45:491] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:46:580] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:47:516] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:48:545] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:49:460] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:50:530] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:51:511] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:52:545] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:53:485] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] cron trigger!
+[2023-03-23 22:36:53:699] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:36:53:704] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-23 22:36:54:112] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载失败 〓
+onMounted 发生错误: 
+{
+  "name": "PupPluginError",
+  "pluginName": "ele",
+  "message": "无效的 cron 表达式"
+}
+[2023-03-23 22:37:03:254] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-23 22:37:03:630] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载失败 〓
+onMounted 发生错误: 
+{
+  "name": "PupPluginError",
+  "pluginName": "ele",
+  "message": "无效的 cron 表达式"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "chatgpt3.5",
+    "version": "3.5",
+    "description": "ChatGPT3.5 插件，使用最新的 `gpt-3.5-turbo` 模型",
+    "main": "index.js",
+    "author": "LSuperNova",
+    "scripts": {
+      "release": "npm publish"
+    },
+    "keywords": [
+      "pupbot",
+      "pupbot-plugin"
+    ],
+    "license": "MIT",
+    "devDependencies": {
+      "@pupbot/core": "latest"
+    },
+    "dependencies": {
+      "openai": "^3.2.1"
+    }
+  }

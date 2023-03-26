@@ -1,0 +1,61 @@
+[2023-03-17 20:01:30:658] [MARK] [2764436432-aWatch] ----------
+[2023-03-17 20:01:30:658] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-17 20:01:30:658] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-17 20:01:30:659] [MARK] [2764436432-aWatch] ----------
+[2023-03-17 20:01:30:731] [MARK] [2764436432-aWatch] 123.151.54.38:8080 connected
+[2023-03-17 20:01:30:887] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-17 20:01:43:412] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-17 20:01:43:584] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-17 20:01:43:585] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-17 20:01:43:585] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-17 20:01:43:585] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-17 20:01:43:586] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-17 20:01:43:586] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-17 20:01:43:586] [MARK] [2764436432-aWatch] 3秒后重新连接
+[2023-03-17 20:01:43:586] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-17 20:01:43:586] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-17 20:01:46:283] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-17 20:01:46:284] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-17 20:01:46:284] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-17 20:01:46:366] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-17 20:01:46:366] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-17 20:01:46:366] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-17 20:01:46:447] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-17 20:01:46:447] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-17 20:01:46:447] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-17 20:01:46:712] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-17 20:01:53:843] [MARK] [2764436432-aWatch] 加载了0个好友，0个群，0个陌生人
+[2023-03-17 20:01:53:844] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-17 20:01:53:871] [INFO] [2764436432-aWatch] 插件 [32mbaike[0m 启用成功
+[2023-03-17 20:01:53:876] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-17 20:01:53:929] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 启用成功
+[2023-03-17 20:01:53:933] [INFO] [2764436432-aWatch] 插件 [32mhelper[0m 启用成功
+[2023-03-17 20:01:53:938] [INFO] [2764436432-aWatch] 插件 [32mkeyword[0m 启用成功
+[2023-03-17 20:01:53:943] [INFO] [2764436432-aWatch] 插件 [32mlike[0m 启用成功
+[2023-03-17 20:01:53:952] [INFO] [2764436432-aWatch] 插件 [32mmryt[0m 启用成功
+[2023-03-17 20:01:53:959] [INFO] [2764436432-aWatch] 插件 [32mmusic[0m 启用成功
+[2023-03-17 20:01:54:747] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-17 20:01:54:751] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 20:01:54:753] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-17 20:01:54:754] [INFO] [2764436432-aWatch] [36m共检索到 12 个插件 (3 个本地，9 个 npm), 启用 11 个：[32mbaike, bili, chatgpt3, helper, keyword, like, mryt, music, weather, demo, demo3[0m[0m
+[2023-03-17 20:01:55:687] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 11 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-17 20:03:46:904] [ERROR] [2764436432-aWatch] 二维码扫码遇到错误: 17 (二维码超时，请重新获取)
+[2023-03-17 20:03:46:904] [MARK] [2764436432-aWatch] 二维码已更新
+[2023-03-17 20:03:47:023] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-17 20:04:13:548] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-17 20:04:13:548] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10003
+[2023-03-17 20:04:13:548] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-17 20:04:18:415] [WARN] [2764436432-aWatch] heartbeat timeout
+[2023-03-17 20:04:18:462] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-17 20:04:18:463] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10008
+[2023-03-17 20:04:18:463] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-17 20:04:23:418] [ERROR] [2764436432-aWatch] heartbeat timeout x 2
+[2023-03-17 20:04:23:419] [MARK] [2764436432-aWatch] 123.151.54.38:8080 closed
+[2023-03-17 20:04:23:505] [MARK] [2764436432-aWatch] 106.55.128.118:8080 connected
+[2023-03-17 20:04:23:617] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-17 20:04:23:618] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10003
+[2023-03-17 20:04:23:618] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-17 20:04:33:470] [ERROR] [2764436432-aWatch] server is busy(register)
+[2023-03-17 20:04:33:470] [MARK] [2764436432-aWatch] 5秒后重新连接
+[2023-03-17 20:04:33:471] [MARK] [2764436432-aWatch] 106.55.128.118:8080 closed

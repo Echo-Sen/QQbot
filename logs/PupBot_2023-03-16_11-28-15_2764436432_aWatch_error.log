@@ -1,0 +1,8 @@
+[2023-03-16 11:28:28:908] [ERROR] [2764436432-aWatch] failed to send: [Private: 1706328818] 发送失败，请先添加对方为好友(16)
+[2023-03-16 11:28:28:910] [ERROR] [2764436432-aWatch] 发送失败，请先添加对方为好友
+[2023-03-16 11:37:11:795] [ERROR] [2764436432-aWatch] read ECONNRESET
+[2023-03-16 11:37:39:221] [ERROR] [2764436432-aWatch] read ECONNRESET
+[2023-03-16 12:00:06:640] [ERROR] [2764436432-aWatch] failed to send: [Private: NaN] undefined(1)
+[2023-03-16 12:00:06:641] [ERROR] [2764436432-aWatch] unknown
+[2023-03-16 15:52:03:903] [WARN] [2764436432-aWatch] heartbeat timeout
+[2023-03-16 15:52:08:904] [ERROR] [2764436432-aWatch] heartbeat timeout x 2

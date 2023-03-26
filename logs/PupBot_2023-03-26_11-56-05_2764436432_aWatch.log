@@ -1,0 +1,28 @@
+[2023-03-26 11:56:06:010] [MARK] [2764436432-aWatch] ----------
+[2023-03-26 11:56:06:011] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-26 11:56:06:011] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-26 11:56:06:011] [MARK] [2764436432-aWatch] ----------
+[2023-03-26 11:56:06:109] [MARK] [2764436432-aWatch] 42.81.184.206:8080 connected
+[2023-03-26 11:56:06:479] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-26 11:56:19:027] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-26 11:56:19:673] [MARK] [2764436432-aWatch] 加载了211个好友，14个群，14个陌生人
+[2023-03-26 11:56:19:676] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-26 11:56:19:695] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-26 11:56:20:393] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-26 11:56:20:399] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3.5[0m 启用成功
+[2023-03-26 11:56:20:402] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-26 11:56:20:406] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 11:56:20:406] [INFO] [2764436432-aWatch] [36m共检索到 7 个插件 (4 个本地，3 个 npm), 启用 5 个：[32mbili, weather, chatgpt3.5, demo3, ele[0m[0m
+[2023-03-26 11:56:21:388] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 5 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-26 11:57:15:622] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on SLmusic
+[2023-03-26 11:57:15:649] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 启用成功
+[2023-03-26 11:57:15:994] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] /p on SLmusic
+[2023-03-26 11:57:16:090] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 SLmusic 启用成功 〓
+[2023-03-26 11:57:47:666] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload SLmusic
+[2023-03-26 11:57:47:674] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 禁用成功
+[2023-03-26 11:57:47:676] [ERROR] [2764436432-aWatch] 插件 [32mSLmusic[0m 导入过程中发生错误: 
+ENOENT: no such file or directory, open 'D:\A.前端学习\science\plugins\SLmusic\index.js'
+[2023-03-26 11:57:48:041] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] /p reload SLmusic
+[2023-03-26 11:57:48:131] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 SLmusic 重载失败 〓
+ENOENT: no such file or directory, open 'D:\A.前端学习\science\plugins\SLmusic\index.js'

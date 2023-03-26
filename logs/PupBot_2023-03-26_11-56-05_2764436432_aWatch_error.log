@@ -1,0 +1,2 @@
+[2023-03-26 11:57:47:676] [ERROR] [2764436432-aWatch] 插件 [32mSLmusic[0m 导入过程中发生错误: 
+ENOENT: no such file or directory, open 'D:\A.前端学习\science\plugins\SLmusic\index.js'

@@ -1,0 +1,8 @@
+[2023-03-26 11:58:51:929] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 11:58:54:562] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 11:58:54:563] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 11:58:54:648] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 11:58:54:648] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 11:58:54:648] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 11:58:54:649] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 12:12:18:470] [ERROR] [2764436432-aWatch] msg is not defined

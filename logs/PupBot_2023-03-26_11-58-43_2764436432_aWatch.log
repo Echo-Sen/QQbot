@@ -1,0 +1,79 @@
+[2023-03-26 11:58:43:963] [MARK] [2764436432-aWatch] ----------
+[2023-03-26 11:58:43:964] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-26 11:58:43:964] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-26 11:58:43:964] [MARK] [2764436432-aWatch] ----------
+[2023-03-26 11:58:44:040] [MARK] [2764436432-aWatch] 42.81.184.206:8080 connected
+[2023-03-26 11:58:44:218] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-26 11:58:51:657] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-26 11:58:51:928] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-26 11:58:51:929] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 11:58:51:929] [MARK] [2764436432-aWatch] 3秒后重新连接
+[2023-03-26 11:58:54:562] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-26 11:58:54:562] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 11:58:54:563] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 11:58:54:647] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-26 11:58:54:648] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-26 11:58:54:648] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 11:58:54:648] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-26 11:58:54:648] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 11:58:54:649] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-26 11:58:55:057] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-26 11:59:01:865] [MARK] [2764436432-aWatch] 加载了0个好友，14个群，14个陌生人
+[2023-03-26 11:59:01:866] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-26 11:59:01:886] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-26 11:59:02:596] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-26 11:59:02:602] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3.5[0m 启用成功
+[2023-03-26 11:59:02:605] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-26 11:59:02:609] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-26 11:59:02:624] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 启用成功
+[2023-03-26 11:59:02:624] [INFO] [2764436432-aWatch] [36m共检索到 7 个插件 (4 个本地，3 个 npm), 启用 6 个：[32mbili, weather, chatgpt3.5, demo3, ele, SLmusic[0m[0m
+[2023-03-26 11:59:03:555] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 6 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-26 11:59:20:414] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload SLmusic
+[2023-03-26 11:59:20:432] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 禁用成功
+[2023-03-26 11:59:20:438] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 启用成功
+[2023-03-26 11:59:20:799] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] /p reload SLmusic
+[2023-03-26 11:59:20:887] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 SLmusic 重载成功 〓
+[2023-03-26 11:59:26:398] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /music
+[2023-03-26 11:59:26:781] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] /music
+[2023-03-26 11:59:26:872] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]/music <platform>
+当前平台：qq
+[2023-03-26 11:59:34:424] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 点歌晴天
+[2023-03-26 11:59:34:796] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 点歌晴天
+[2023-03-26 12:07:44:122] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查找晴天歌词
+[2023-03-26 12:07:44:514] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 查找晴天歌词
+[2023-03-26 12:08:00:891] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo3
+[2023-03-26 12:08:00:898] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 禁用成功
+[2023-03-26 12:08:00:900] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-26 12:08:01:315] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo3 重载成功 〓
+[2023-03-26 12:08:01:400] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] /p reload demo3
+[2023-03-26 12:08:42:583] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查找歌词
+[2023-03-26 12:08:42:947] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]歌曲名不能为空
+[2023-03-26 12:08:54:483] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查找晴天歌词
+[2023-03-26 12:09:01:430] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查找晴天
+[2023-03-26 12:09:08:772] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查找歌词
+[2023-03-26 12:09:09:148] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]歌曲名不能为空
+[2023-03-26 12:09:46:864] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查找歌词晴天
+[2023-03-26 12:09:47:992] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [xml消息]
+[2023-03-26 12:11:54:374] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload 点歌
+[2023-03-26 12:11:54:743] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 点歌: 插件不存在 〓
+[2023-03-26 12:12:08:776] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload SLmusic
+[2023-03-26 12:12:08:783] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 禁用成功
+[2023-03-26 12:12:08:788] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 启用成功
+[2023-03-26 12:12:09:156] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 SLmusic 重载成功 〓
+[2023-03-26 12:12:18:087] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查找歌词晴天
+[2023-03-26 12:12:18:470] [ERROR] [2764436432-aWatch] msg is not defined
+[2023-03-26 12:12:29:061] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload SLmusic
+[2023-03-26 12:12:29:070] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 禁用成功
+[2023-03-26 12:12:29:074] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 启用成功
+[2023-03-26 12:12:29:477] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 SLmusic 重载成功 〓
+[2023-03-26 12:12:49:580] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload SLmusic
+[2023-03-26 12:12:49:586] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 禁用成功
+[2023-03-26 12:12:49:592] [INFO] [2764436432-aWatch] 插件 [32mSLmusic[0m 启用成功
+[2023-03-26 12:12:50:017] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 SLmusic 重载成功 〓
+[2023-03-26 12:18:06:415] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 点歌晴天
+[2023-03-26 13:08:16:374] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-26 13:08:16:379] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-26 13:08:16:739] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载失败 〓
+onMounted 发生错误: 
+{}

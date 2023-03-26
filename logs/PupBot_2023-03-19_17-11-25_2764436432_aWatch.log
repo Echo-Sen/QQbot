@@ -1,0 +1,111 @@
+[2023-03-19 17:11:25:246] [MARK] [2764436432-aWatch] ----------
+[2023-03-19 17:11:25:247] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-19 17:11:25:247] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-19 17:11:25:247] [MARK] [2764436432-aWatch] ----------
+[2023-03-19 17:11:25:342] [MARK] [2764436432-aWatch] 42.81.184.206:8080 connected
+[2023-03-19 17:11:25:523] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-19 17:11:45:958] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-19 17:11:46:197] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:11:46:197] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:11:46:198] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:11:46:198] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:11:46:199] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:11:46:199] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:11:46:199] [MARK] [2764436432-aWatch] 3秒后重新连接
+[2023-03-19 17:11:46:199] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:11:46:199] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:11:48:799] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:11:48:799] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:11:48:800] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:11:48:887] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:11:48:888] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:11:48:888] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:11:48:888] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:11:48:888] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:11:48:888] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:11:48:888] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:11:48:888] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:11:48:888] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:11:48:974] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:11:48:975] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:11:48:975] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:11:49:329] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-19 17:11:56:130] [MARK] [2764436432-aWatch] 加载了0个好友，0个群，0个陌生人
+[2023-03-19 17:11:56:131] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-19 17:11:56:159] [INFO] [2764436432-aWatch] 插件 [32mbaike[0m 启用成功
+[2023-03-19 17:11:56:164] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-19 17:11:56:168] [INFO] [2764436432-aWatch] 插件 [32mhelper[0m 启用成功
+[2023-03-19 17:11:56:172] [INFO] [2764436432-aWatch] 插件 [32mkeyword[0m 启用成功
+[2023-03-19 17:11:56:177] [INFO] [2764436432-aWatch] 插件 [32mlike[0m 启用成功
+[2023-03-19 17:11:56:189] [INFO] [2764436432-aWatch] 插件 [32mmryt[0m 启用成功
+[2023-03-19 17:11:56:196] [INFO] [2764436432-aWatch] 插件 [32mmusic[0m 启用成功
+[2023-03-19 17:11:56:954] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-19 17:11:56:961] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3.5[0m 启用成功
+[2023-03-19 17:11:56:964] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-19 17:11:56:967] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:11:56:968] [INFO] [2764436432-aWatch] [36m共检索到 13 个插件 (4 个本地，9 个 npm), 启用 11 个：[32mbaike, bili, helper, keyword, like, mryt, music, weather, chatgpt3.5, demo3, ele[0m[0m
+[2023-03-19 17:11:57:955] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 11 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-19 17:12:14:239] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:12:14:248] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:12:14:250] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:12:14:625] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:12:44:840] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:12:44:848] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:12:44:850] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:12:45:236] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:12:52:982] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:12:53:042] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:13:03:212] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费-南区1舍-106
+[2023-03-19 17:13:03:594] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 宿舍号：106
+剩余电费：16.04
+更新时间：2023/3/19 15:42:53
+当月用电：24.84
+[2023-03-19 17:13:24:614] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:13:24:621] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:13:24:623] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:13:24:987] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:13:27:291] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:13:27:328] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:13:50:143] [ERROR] [2764436432-aWatch] 二维码扫码遇到错误: 17 (二维码超时，请重新获取)
+[2023-03-19 17:13:50:143] [MARK] [2764436432-aWatch] 二维码已更新
+[2023-03-19 17:13:50:268] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-19 17:14:42:629] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:14:42:637] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:14:42:640] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:14:43:064] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:14:45:639] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:14:45:680] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:15:51:438] [ERROR] [2764436432-aWatch] 二维码扫码遇到错误: 17 (二维码超时，请重新获取)
+[2023-03-19 17:15:51:438] [MARK] [2764436432-aWatch] 二维码已更新
+[2023-03-19 17:15:51:571] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-19 17:16:23:706] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload ele
+[2023-03-19 17:16:23:712] [INFO] [2764436432-aWatch] 插件 [32mele[0m 禁用成功
+[2023-03-19 17:16:23:714] [INFO] [2764436432-aWatch] 插件 [32mele[0m 启用成功
+[2023-03-19 17:16:24:059] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 ele 重载成功 〓
+[2023-03-19 17:16:26:264] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-19 17:16:26:304] [ERROR] [2764436432-aWatch] Cannot read properties of undefined (reading '1')
+[2023-03-19 17:17:52:740] [ERROR] [2764436432-aWatch] 二维码扫码遇到错误: 17 (二维码超时，请重新获取)
+[2023-03-19 17:17:52:741] [MARK] [2764436432-aWatch] 二维码已更新
+[2023-03-19 17:17:52:859] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-19 17:19:54:022] [ERROR] [2764436432-aWatch] 二维码扫码遇到错误: 17 (二维码超时，请重新获取)
+[2023-03-19 17:19:54:022] [MARK] [2764436432-aWatch] 二维码已更新
+[2023-03-19 17:19:54:141] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-19 17:20:50:152] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:20:50:152] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:20:50:153] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:20:50:240] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:20:50:240] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:20:50:240] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:20:50:240] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:20:50:241] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:20:50:241] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:20:56:898] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:20:56:898] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:20:56:899] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:20:56:986] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:20:56:986] [MARK] [2764436432-aWatch] 登录token过期
+[2023-03-19 17:20:56:986] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:20:56:986] [ERROR] [2764436432-aWatch] Error: unsuccessful retcode: -10004
+[2023-03-19 17:20:56:986] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'
+[2023-03-19 17:20:56:987] [FATAL] [2764436432-aWatch] ENOENT: no such file or directory, unlink 'D:\A.前端学习\science\data\oicq\2764436432\token'

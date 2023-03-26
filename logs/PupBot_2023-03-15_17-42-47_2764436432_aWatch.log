@@ -1,0 +1,42 @@
+[2023-03-15 17:42:47:078] [MARK] [2764436432-aWatch] ----------
+[2023-03-15 17:42:47:078] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-15 17:42:47:078] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-15 17:42:47:079] [MARK] [2764436432-aWatch] ----------
+[2023-03-15 17:42:47:146] [MARK] [2764436432-aWatch] 120.232.69.173:8080 connected
+[2023-03-15 17:42:47:293] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\科小\data\oicq\2764436432\qrcode.png
+[2023-03-15 17:42:58:580] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-15 17:42:59:013] [MARK] [2764436432-aWatch] 加载了209个好友，14个群，14个陌生人
+[2023-03-15 17:42:59:014] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-15 17:42:59:029] [INFO] [2764436432-aWatch] [36m共检索到 0 个插件 (0 个本地，0 个 npm), 启用 0 个：[32m[0m[0m
+[2023-03-15 17:42:59:772] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 0 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-15 17:43:25:724] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /help
+[2023-03-15 17:43:25:915] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 PupBot 帮助 〓
+/plugin  插件操作
+/status  查看状态
+/config  框架配置
+/update  检查更新
+/about   关于框架
+/exit    退出框架
+[2023-03-15 17:43:37:241] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /plugin
+[2023-03-15 17:43:37:422] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 PupBot 插件 〓
+/plugin list
+/plugin add <name>
+/plugin rm <name>
+/plugin on/off <name>
+/plugin onall/offall/reloadall
+/plugin reload <name>
+/plugin update <?name>
+/p = /plugin
+[2023-03-15 17:50:51:855] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /plugin list
+[2023-03-15 17:50:52:046] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 插件列表为空 〓
+[2023-03-15 17:51:13:790] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p add like
+[2023-03-15 17:51:13:980] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在安装 like 〓
+[2023-03-15 17:51:16:939] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 like 安装成功 〓
+[2023-03-15 17:51:25:181] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on like
+[2023-03-15 17:51:25:196] [INFO] [2764436432-aWatch] 插件 [32mlike[0m 启用成功
+[2023-03-15 17:51:25:345] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 like 启用成功 〓
+[2023-03-15 17:51:28:946] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 赞我
+[2023-03-15 17:51:29:249] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]今天点过了，明天赶早[表情]
+[2023-03-15 18:17:01:076] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on demo-1
+[2023-03-15 18:17:01:277] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo-1: 插件不存在 〓

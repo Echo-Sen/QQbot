@@ -1,0 +1,173 @@
+[2023-03-17 19:18:43:112] [MARK] [2764436432-aWatch] ----------
+[2023-03-17 19:18:43:112] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-17 19:18:43:113] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-17 19:18:43:113] [MARK] [2764436432-aWatch] ----------
+[2023-03-17 19:18:43:190] [MARK] [2764436432-aWatch] 42.81.183.253:8080 connected
+[2023-03-17 19:18:43:358] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-17 19:18:59:879] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-17 19:19:00:357] [MARK] [2764436432-aWatch] 加载了209个好友，14个群，14个陌生人
+[2023-03-17 19:19:00:358] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-17 19:19:00:386] [INFO] [2764436432-aWatch] 插件 [32mbaike[0m 启用成功
+[2023-03-17 19:19:00:390] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-17 19:19:00:454] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 启用成功
+[2023-03-17 19:19:00:458] [INFO] [2764436432-aWatch] 插件 [32mhelper[0m 启用成功
+[2023-03-17 19:19:00:462] [INFO] [2764436432-aWatch] 插件 [32mkeyword[0m 启用成功
+[2023-03-17 19:19:00:469] [INFO] [2764436432-aWatch] 插件 [32mlike[0m 启用成功
+[2023-03-17 19:19:00:478] [INFO] [2764436432-aWatch] 插件 [32mmryt[0m 启用成功
+[2023-03-17 19:19:00:485] [INFO] [2764436432-aWatch] 插件 [32mmusic[0m 启用成功
+[2023-03-17 19:19:01:253] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-17 19:19:01:258] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:19:01:261] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-17 19:19:01:261] [INFO] [2764436432-aWatch] [36m共检索到 12 个插件 (3 个本地，9 个 npm), 启用 11 个：[32mbaike, bili, chatgpt3, helper, keyword, like, mryt, music, weather, demo, demo3[0m[0m
+[2023-03-17 19:19:01:305] [ERROR] [2764436432-aWatch] failed to send: [Private: 1706328818] 发送失败，请先添加对方为好友(16)
+[2023-03-17 19:19:01:308] [ERROR] [2764436432-aWatch] 发送失败，请先添加对方为好友
+[2023-03-17 19:19:02:317] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 11 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-17 19:28:55:350] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:28:55:362] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:28:55:363] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:28:55:490] [ERROR] [2764436432-aWatch] failed to send: [Private: 1706328818] 发送失败，请先添加对方为好友(16)
+[2023-03-17 19:28:55:491] [ERROR] [2764436432-aWatch] 发送失败，请先添加对方为好友
+[2023-03-17 19:28:55:753] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:29:11:570] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)]  查电费
+[2023-03-17 19:29:35:221] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 发课表
+[2023-03-17 19:29:35:955] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 你的课程表为：[图片]
+[2023-03-17 19:30:48:348] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:30:48:357] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:30:48:359] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:30:48:725] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:30:52:359] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:30:52:445] [ERROR] [2764436432-aWatch] empty message
+[2023-03-17 19:30:52:735] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] hhhh
+[2023-03-17 19:32:20:394] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:32:20:402] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:32:20:404] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:32:20:731] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:32:26:341] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:32:26:413] [ERROR] [2764436432-aWatch] empty message
+[2023-03-17 19:32:26:695] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:33:10:893] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:33:10:900] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:33:10:903] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:33:11:257] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:33:15:928] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:33:16:005] [ERROR] [2764436432-aWatch] empty message
+[2023-03-17 19:33:16:292] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:33:53:880] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:33:53:887] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:33:53:890] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:33:54:284] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:33:57:591] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:33:57:665] [ERROR] [2764436432-aWatch] empty message
+[2023-03-17 19:33:57:946] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:36:03:295] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:36:03:312] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:36:03:316] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:36:03:686] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:36:06:095] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:36:06:170] [ERROR] [2764436432-aWatch] empty message
+[2023-03-17 19:36:06:470] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:36:34:703] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:36:34:710] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:36:34:713] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:36:35:069] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:36:38:759] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:36:38:822] [ERROR] [2764436432-aWatch] empty message
+[2023-03-17 19:36:39:124] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:38:32:005] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:38:32:013] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:38:32:017] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:38:32:369] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:38:35:686] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:38:35:731] [ERROR] [2764436432-aWatch] empty message
+[2023-03-17 19:38:36:084] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:38:54:741] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:38:54:746] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:38:54:749] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:38:55:116] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:38:57:155] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:38:57:160] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:38:57:162] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:38:57:497] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:39:05:506] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:39:05:543] [ERROR] [2764436432-aWatch] empty message
+[2023-03-17 19:39:05:860] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:39:42:449] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:39:42:456] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:39:42:459] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:39:42:834] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:39:49:896] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:39:50:280] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:39:50:361] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] hhhh
+[2023-03-17 19:40:22:012] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:40:22:401] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:40:22:483] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] hhhh
+[2023-03-17 19:40:29:455] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:40:29:460] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:40:29:463] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:40:29:808] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:40:33:267] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:40:33:641] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:40:47:413] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:40:47:420] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:40:47:422] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:40:47:767] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:40:51:545] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:40:51:900] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:41:33:499] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:41:33:503] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:41:33:506] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:41:33:870] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:41:37:100] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:41:37:443] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:41:37:545] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]宿舍：
+[2023-03-17 19:42:17:606] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:42:17:610] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:42:17:613] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:42:17:962] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:42:20:215] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:42:20:578] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:42:20:658] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]宿舍：
+[2023-03-17 19:44:03:736] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:44:03:741] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:44:03:744] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:44:04:140] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:44:07:815] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:44:08:179] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] https://hqpay.ctbu.edu.cn/weixin/ashx/frmuser.ashx?test=lastlist&pid=106&dyid=南区1舍
+[2023-03-17 19:50:22:144] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:50:22:148] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:50:22:151] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:50:22:518] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:50:26:899] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:52:00:466] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:53:31:229] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:53:31:234] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:53:31:236] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:53:31:598] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:53:34:936] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:56:05:153] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:56:05:158] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:56:05:160] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:56:05:508] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:56:09:711] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:56:10:099] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] jjj
+[2023-03-17 19:57:57:805] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:57:57:811] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:57:57:815] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:57:58:158] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:58:01:710] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:58:02:073] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] jjj
+[2023-03-17 19:59:05:699] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:59:05:703] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:59:05:706] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:59:06:078] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:59:09:373] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:59:09:763] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] jjj
+[2023-03-17 19:59:34:465] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p reload demo
+[2023-03-17 19:59:34:470] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 禁用成功
+[2023-03-17 19:59:34:472] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 19:59:34:825] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo 重载成功 〓
+[2023-03-17 19:59:34:905] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] jjj
+[2023-03-17 19:59:40:275] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 查电费
+[2023-03-17 19:59:40:671] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] jjj
+[2023-03-17 19:59:40:751] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 宿舍：

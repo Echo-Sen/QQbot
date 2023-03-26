@@ -1,0 +1,120 @@
+[2023-03-16 11:28:15:844] [MARK] [2764436432-aWatch] ----------
+[2023-03-16 11:28:15:844] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-16 11:28:15:845] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-16 11:28:15:845] [MARK] [2764436432-aWatch] ----------
+[2023-03-16 11:28:15:984] [MARK] [2764436432-aWatch] 120.232.196.151:8080 connected
+[2023-03-16 11:28:16:139] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\科小\data\oicq\2764436432\qrcode.png
+[2023-03-16 11:28:28:451] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-16 11:28:28:753] [MARK] [2764436432-aWatch] 加载了209个好友，14个群，14个陌生人
+[2023-03-16 11:28:28:756] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-16 11:28:28:777] [INFO] [2764436432-aWatch] 插件 [32mkeyword[0m 启用成功
+[2023-03-16 11:28:28:782] [INFO] [2764436432-aWatch] 插件 [32mlike[0m 启用成功
+[2023-03-16 11:28:28:786] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-16 11:28:28:789] [INFO] [2764436432-aWatch] 插件 [32mdemo2[0m 启用成功
+[2023-03-16 11:28:28:793] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-16 11:28:28:793] [INFO] [2764436432-aWatch] [36m共检索到 5 个插件 (3 个本地，2 个 npm), 启用 5 个：[32mkeyword, like, demo, demo2, demo3[0m[0m
+[2023-03-16 11:28:28:908] [ERROR] [2764436432-aWatch] failed to send: [Private: 1706328818] 发送失败，请先添加对方为好友(16)
+[2023-03-16 11:28:28:910] [ERROR] [2764436432-aWatch] 发送失败，请先添加对方为好友
+[2023-03-16 11:28:29:517] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 5 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-16 11:28:54:376] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p plugin list
+[2023-03-16 11:28:54:557] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 倚楼听风雨给我发了消息：/p plugin list
+[2023-03-16 11:29:02:342] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 关键词
+[2023-03-16 11:29:02:503] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 倚楼听风雨给我发了消息：关键词
+[2023-03-16 11:31:15:531] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] hello world
+[2023-03-16 11:31:15:703] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 倚楼听风雨给我发了消息：hello world
+[2023-03-16 11:31:21:946] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] hello
+[2023-03-16 11:31:22:117] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 倚楼听风雨给我发了消息：hello
+[2023-03-16 11:31:22:195] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] hello world
+[2023-03-16 11:33:31:232] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p off demo2
+[2023-03-16 11:33:31:239] [INFO] [2764436432-aWatch] 插件 [32mdemo2[0m 禁用成功
+[2023-03-16 11:33:31:393] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo2 禁用成功 〓
+[2023-03-16 11:33:31:470] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 倚楼听风雨给我发了消息：/p off demo2
+[2023-03-16 11:33:37:636] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] hello
+[2023-03-16 11:33:37:816] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] hello world
+[2023-03-16 11:35:13:680] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p add weather
+[2023-03-16 11:35:13:872] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在安装 weather 〓
+[2023-03-16 11:35:18:977] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 weather 安装成功 〓
+[2023-03-16 11:35:20:384] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on weather
+[2023-03-16 11:35:21:189] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-16 11:35:21:353] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 weather 启用成功 〓
+[2023-03-16 11:35:25:584] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 重庆天气
+[2023-03-16 11:35:27:010] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [图片]
+〓 重庆 03/16 天气 〓
+阴 14℃ ~ 20℃ 西北风 微风
+[2023-03-16 11:36:50:873] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /plugin add baike
+[2023-03-16 11:36:51:053] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在安装 baike 〓
+[2023-03-16 11:36:54:015] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 baike 安装成功 〓
+[2023-03-16 11:37:03:966] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /plugin on baike
+[2023-03-16 11:37:03:993] [INFO] [2764436432-aWatch] 插件 [32mbaike[0m 启用成功
+[2023-03-16 11:37:04:186] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 baike 启用成功 〓
+[2023-03-16 11:37:11:191] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 百科李白
+[2023-03-16 11:37:11:795] [ERROR] [2764436432-aWatch] read ECONNRESET
+[2023-03-16 11:37:38:929] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 词条李白
+[2023-03-16 11:37:39:221] [ERROR] [2764436432-aWatch] read ECONNRESET
+[2023-03-16 11:38:37:630] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p off baike
+[2023-03-16 11:38:37:637] [INFO] [2764436432-aWatch] 插件 [32mbaike[0m 禁用成功
+[2023-03-16 11:38:37:791] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 baike 禁用成功 〓
+[2023-03-16 11:44:07:189] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p add mryt
+[2023-03-16 11:44:07:370] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在安装 mryt 〓
+[2023-03-16 11:44:10:346] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 mryt 安装成功 〓
+[2023-03-16 11:44:15:358] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on mryt
+[2023-03-16 11:44:15:379] [INFO] [2764436432-aWatch] 插件 [32mmryt[0m 启用成功
+[2023-03-16 11:44:15:518] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 mryt 启用成功 〓
+[2023-03-16 11:44:59:612] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] #mryt t
+[2023-03-16 11:45:00:186] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 前端每日一题：
+第1430天 
+更新时间: 2023-03-16 04:33:51 星期四 
+http://www.h-camel.com//show/5388.html
+[js] 使用js写一个方法，使得结果值映射到[0-1]之间(数据归一化) 
+[2023-03-16 11:58:19:784] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p add helper
+[2023-03-16 11:58:19:976] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在安装 helper 〓
+[2023-03-16 11:58:22:935] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 helper 安装成功 〓
+[2023-03-16 11:58:32:304] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on helper
+[2023-03-16 11:58:32:312] [INFO] [2764436432-aWatch] 插件 [32mhelper[0m 启用成功
+[2023-03-16 11:58:32:475] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 helper 启用成功 〓
+[2023-03-16 11:59:38:823] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 发好友 <3113222742> <滴滴滴滴>
+[2023-03-16 12:00:06:513] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] #发好友 <3113222742> <滴滴滴滴>
+[2023-03-16 12:00:06:640] [ERROR] [2764436432-aWatch] failed to send: [Private: NaN] undefined(1)
+[2023-03-16 12:00:06:641] [ERROR] [2764436432-aWatch] unknown
+[2023-03-16 12:00:06:716] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]发送成功
+[2023-03-16 12:02:08:335] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 重庆天气
+[2023-03-16 12:02:09:602] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [图片]
+〓 重庆 03/16 天气 〓
+阴 14℃ ~ 20℃ 西北风 微风
+[2023-03-16 12:02:22:457] [INFO] [2764436432-aWatch] recv from: [Private: 3113222742(friend)] 你好
+[2023-03-16 12:02:32:193] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 重庆九龙坡区天气
+[2023-03-16 12:02:32:901] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]城市不存在，请检查
+[2023-03-16 12:02:39:431] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 八嘎
+[2023-03-16 12:04:13:709] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p add bili
+[2023-03-16 12:04:13:891] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在安装 bili 〓
+[2023-03-16 12:04:17:076] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 bili 安装成功 〓
+[2023-03-16 12:04:20:251] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on bili
+[2023-03-16 12:04:20:266] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-16 12:04:20:464] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 bili 启用成功 〓
+[2023-03-16 12:04:29:752] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] #B
+[2023-03-16 12:04:31:503] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] == B站实时热搜 ==
+---------
+贱谍过家家（3）
+播放量：287.6万
+//www.bilibili.com/video/BV1k54y1K7rQ
+---------
+老婆给我生了个女儿
+播放量：437.1万
+//www.bilibili.com/video/BV1zo4y1B7MC
+---------
+队庆｜《我要打篮球》庆语其 刘恩泽
+播放量：193.6万
+//www.bilibili.com/video/BV1k84y1A7Gy
+---------
+抓到一只委屈的柱柱猫！
+播放量：335.1万
+//www.bilibili.com/video/BV1Db411o7WU
+---------
+流浪两年半走遍半个中国，终于回到家乡，感觉真好
+播放量：188.8万
+//www.bilibili.com/video/BV19Y4y197tq
+[2023-03-16 15:52:03:903] [WARN] [2764436432-aWatch] heartbeat timeout
+[2023-03-16 15:52:08:904] [ERROR] [2764436432-aWatch] heartbeat timeout x 2
+[2023-03-16 15:52:08:911] [MARK] [2764436432-aWatch] 120.232.196.151:8080 closed
+[2023-03-16 15:52:08:999] [MARK] [2764436432-aWatch] 106.55.128.197:8080 connected

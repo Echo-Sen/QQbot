@@ -1,0 +1,107 @@
+[2023-03-17 18:52:13:173] [MARK] [2764436432-aWatch] ----------
+[2023-03-17 18:52:13:174] [MARK] [2764436432-aWatch] Package Version: oicq@2.3.1 (Released on 2022/6/21)
+[2023-03-17 18:52:13:174] [MARK] [2764436432-aWatch] View Changelogs：https://github.com/takayama-lily/oicq/releases
+[2023-03-17 18:52:13:174] [MARK] [2764436432-aWatch] ----------
+[2023-03-17 18:52:13:254] [MARK] [2764436432-aWatch] 221.238.41.89:8080 connected
+[2023-03-17 18:52:13:429] [MARK] [2764436432-aWatch] 二维码图片已保存到：D:\A.前端学习\science\data\oicq\2764436432\qrcode.png
+[2023-03-17 18:52:34:862] [MARK] [2764436432-aWatch] Welcome, 李逍遥 ! 正在加载资源...
+[2023-03-17 18:52:35:409] [MARK] [2764436432-aWatch] 加载了209个好友，14个群，14个陌生人
+[2023-03-17 18:52:35:410] [INFO] [2764436432-aWatch] [32m李逍遥(2764436432) 上线成功！[0m
+[2023-03-17 18:52:35:440] [INFO] [2764436432-aWatch] 插件 [32mbaike[0m 启用成功
+[2023-03-17 18:52:35:445] [INFO] [2764436432-aWatch] 插件 [32mbili[0m 启用成功
+[2023-03-17 18:52:35:498] [INFO] [2764436432-aWatch] 插件 [32mchatgpt3[0m 启用成功
+[2023-03-17 18:52:35:502] [INFO] [2764436432-aWatch] 插件 [32mhelper[0m 启用成功
+[2023-03-17 18:52:35:507] [INFO] [2764436432-aWatch] 插件 [32mkeyword[0m 启用成功
+[2023-03-17 18:52:35:513] [INFO] [2764436432-aWatch] 插件 [32mlike[0m 启用成功
+[2023-03-17 18:52:35:521] [INFO] [2764436432-aWatch] 插件 [32mmryt[0m 启用成功
+[2023-03-17 18:52:36:301] [INFO] [2764436432-aWatch] 插件 [32mweather[0m 启用成功
+[2023-03-17 18:52:36:305] [INFO] [2764436432-aWatch] 插件 [32mdemo[0m 启用成功
+[2023-03-17 18:52:36:308] [INFO] [2764436432-aWatch] 插件 [32mdemo3[0m 启用成功
+[2023-03-17 18:52:36:309] [INFO] [2764436432-aWatch] [36m共检索到 11 个插件 (3 个本地，8 个 npm), 启用 10 个：[32mbaike, bili, chatgpt3, helper, keyword, like, mryt, weather, demo, demo3[0m[0m
+[2023-03-17 18:52:36:375] [ERROR] [2764436432-aWatch] failed to send: [Private: 1706328818] 发送失败，请先添加对方为好友(16)
+[2023-03-17 18:52:36:379] [ERROR] [2764436432-aWatch] 发送失败，请先添加对方为好友
+[2023-03-17 18:52:37:286] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 上线成功，启用了 10 个插件
+发送 /help 查看 PupBot 帮助
+[2023-03-17 18:53:10:021] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p add music
+[2023-03-17 18:53:10:458] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在安装 music 〓
+[2023-03-17 18:53:13:381] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 music 安装成功 〓
+[2023-03-17 18:53:21:928] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p on music
+[2023-03-17 18:53:21:953] [INFO] [2764436432-aWatch] 插件 [32mmusic[0m 启用成功
+[2023-03-17 18:53:22:293] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 music 启用成功 〓
+[2023-03-17 18:53:31:263] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] 点歌
+[2023-03-17 18:53:31:621] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]qq点歌<歌曲名>
+网易云点歌<歌曲名>
+咪咕点歌<歌曲名>
+酷狗点歌<歌曲名>
+酷我点歌<歌曲名>
+b站点歌<歌曲名>
+搜歌词<歌曲名>
+[2023-03-17 18:53:42:060] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] QQ点歌周杰伦
+[2023-03-17 18:53:47:649] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] QQ点歌
+[2023-03-17 18:53:48:015] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] [回复]qq点歌<歌曲名>
+网易云点歌<歌曲名>
+咪咕点歌<歌曲名>
+酷狗点歌<歌曲名>
+酷我点歌<歌曲名>
+b站点歌<歌曲名>
+搜歌词<歌曲名>
+[2023-03-17 18:53:55:698] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] QQ点歌周杰伦
+[2023-03-17 18:54:02:828] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] QQ点歌七里香
+[2023-03-17 19:03:10:382] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p list
+[2023-03-17 19:03:10:834] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 PupBot 插件列表 〓
+● baike (1.1.2)
+● bili (1.0.0)
+● chatgpt3 (1.1.4)
+● helper (1.0.10)
+● keyword (0.1.0)
+● like (1.0.1)
+● mryt (1.1.0)
+● music (1.0.1)
+● weather (1.1.3)
+● demo (1.0.0)
+○ demo2
+● demo3 (1.0.0)
+共 12 个，启用 11 个
+[2023-03-17 19:03:25:647] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p help
+[2023-03-17 19:03:36:481] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /help
+[2023-03-17 19:03:36:896] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 PupBot 帮助 〓
+/plugin  插件操作
+/status  查看状态
+/config  框架配置
+/update  检查更新
+/about   关于框架
+/exit    退出框架
+[2023-03-17 19:03:45:740] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p
+[2023-03-17 19:03:46:137] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 PupBot 插件 〓
+/plugin list
+/plugin add <name>
+/plugin rm <name>
+/plugin on/off <name>
+/plugin onall/offall/reloadall
+/plugin reload <name>
+/plugin update <?name>
+/p = /plugin
+[2023-03-17 19:03:59:224] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p rm demo2
+[2023-03-17 19:03:59:630] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在移除 demo2... 〓
+[2023-03-17 19:04:12:637] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 demo2 移除失败 〓
+错误信息: Command failed: npm install pupbot-plugin-demo2
+npm ERR! code E404
+npm ERR! 404 Not Found - GET https://registry.npmjs.org/pupbot-plugin-demo2 - Not found
+npm ERR! 404 
+npm ERR! 404  'pupbot-plugin-demo2@*' is not in this registry.
+npm ERR! 404 
+npm ERR! 404 Note that you can also install from a
+npm ERR! 404 tarball, folder, http url, or git url.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     D:\Nodejs\node_cache\_logs\2023-03-17T11_04_00_645Z-debug-0.log
+
+[2023-03-17 19:04:30:022] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p rm helper
+[2023-03-17 19:04:30:595] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在移除 helper... 〓
+[2023-03-17 19:04:34:366] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 helper 移除成功 〓
+[2023-03-17 19:12:57:606] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p rm keyword
+[2023-03-17 19:12:58:003] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在移除 keyword... 〓
+[2023-03-17 19:13:00:744] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 keyword 移除成功 〓
+[2023-03-17 19:15:56:886] [INFO] [2764436432-aWatch] recv from: [Private: 204797682(friend)] /p rm baike
+[2023-03-17 19:15:57:271] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 正在移除 baike... 〓
+[2023-03-17 19:15:59:841] [INFO] [2764436432-aWatch] succeed to send: [Private(204797682)] 〓 baike 移除成功 〓
