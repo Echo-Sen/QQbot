@@ -26,7 +26,7 @@ let config = {
   PayUsers:{
   },
   // appid:14654,
-  // PayApiKey:"MUuinVFkeGAeewHnYpWw",
+  // PayApiKey:"key",
 
   // 使用的模型，参考这里：https://platform.openai.com/docs/models/models
   model: 'gpt-3.5-turbo',
